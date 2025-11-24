@@ -1,4 +1,4 @@
-# Amar Dixit, 24BAS10093
+# Paishal Sharma, 24BAS10052
 
 # University Course Registration System
 
